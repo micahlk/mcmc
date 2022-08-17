@@ -15,7 +15,7 @@ f43_t = {"Tom": ((1, 2, 3), 11), "Jerry": ((4, 5), 12), "Mike": ((6, 7), 13), "G
 f32_t = {"Jack": ((11, 12), 15), "Kim": ((13, 14), 16)}
 f21_t = {"James": ((15, 16), 17)}
 
-print(f43_t["Mike"][0]);
+print(f43_t["Mike"][0])
 print(f32_t["Jack"][1]);
 print(f21_t["James"][1]);
 
