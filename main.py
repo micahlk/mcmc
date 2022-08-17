@@ -19,7 +19,7 @@ print(f43_t["Mike"][0]);
 print(f32_t["Jack"][1]);
 print(f21_t["James"][1]);
 
-vFcrt = (f43_t, f32_t, f21_t);
+vFcrt = (f43_t, f32_t, f21_t)
 print(vFcrt[1])
 
 # 元组内只有一个元素时要加逗号
